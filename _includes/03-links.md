@@ -1,1 +1,1 @@
-(my github profile link)https://github.com/Devdeep-J-S
+[my github profile link](https://github.com/Devdeep-J-S)
